@@ -89,8 +89,8 @@ client/
 │   └── main.jsx
 
 <p align="center">
-  <img src="assets/localhost_5173_.png" alt="Product Inventory System Banner" width="100%" />
+  <img src="./assets/localhost_5173_.png" alt="Product Inventory System Banner" width="100%" />
 </p>
 <p align="center">
-  <img src="assets/localhost_5173_add.png" alt="Product Inventory System Banner" width="100%" />
+  <img src="./assets/localhost_5173_add.png" alt="Product Inventory System Banner" width="100%" />
 </p>
