@@ -1,0 +1,75 @@
+.container {
+  max-width: 500px;
+  margin: 30px auto;
+  padding: 24px;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  background: #fdfdfd;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+}
+
+h2 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+input,
+textarea {
+  width: 100%;
+  padding: 10px;
+  margin-top: 8px;
+  margin-bottom: 16px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 16px;
+}
+
+textarea {
+  min-height: 80px;
+  resize: vertical;
+}
+
+label {
+  font-weight: 600;
+  display: block;
+  margin-top: 10px;
+}
+
+button {
+  margin-top: 10px;
+  margin-right: 10px;
+  background-color: #1976d2;
+  color: white;
+  padding: 10px 16px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 15px;
+  transition: 0.2s ease;
+}
+
+button:hover {
+  background-color: #1565c0;
+}
+
+.selectWrapper {
+  margin-top: 8px;
+  margin-bottom: 16px;
+}
+
+.addCategory {
+  margin-top: -8px;
+  margin-bottom: 16px;
+  color: #1976d2;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 14px;
+  padding: 0;
+}
+
+.addCategory:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,15 @@
+# Node
+node_modules/
+.env
+
+# Vite/React
+dist/
+.vite/
+.DS_Store
+
+# Logs
+logs
+*.log
+
+# OS-specific
+Thumbs.db
