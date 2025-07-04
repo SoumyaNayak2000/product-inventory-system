@@ -88,9 +88,4 @@ client/
 │   ├── App.jsx
 │   └── main.jsx
 
-<p align="center">
-  <img src="https://github.com/SoumyaNayak2000/product-inventory-system/blob/main/assets/localhost_5173_.png" alt="Product Inventory System Banner" width="100%" />
-</p>
-<p align="center">
-  <img src="https://github.com/SoumyaNayak2000/product-inventory-system/blob/main/assets/localhost_5173_add.png" alt="Product Inventory System Banner" width="100%" />
-</p>
+
